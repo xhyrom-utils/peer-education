@@ -1,0 +1,6 @@
+- https://www.tutorialspoint.com/python/tk_anchors.htm
+- https://jasonrbriggs.com/journal/2016/12/08/text-position-in-tkinter.html
+- https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/create_text.html
+- https://docs.huihoo.com/tkinter/tkinter-reference-a-gui-for-python/create_text.html
+- https://docs.huihoo.com/tkinter/tkinter-reference-a-gui-for-python/anchors.html
+- https://tkinter-docs.readthedocs.io/en/latest/widgets/canvas.html
