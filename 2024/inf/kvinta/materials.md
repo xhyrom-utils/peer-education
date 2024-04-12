@@ -4,3 +4,4 @@
 - https://docs.huihoo.com/tkinter/tkinter-reference-a-gui-for-python/create_text.html
 - https://docs.huihoo.com/tkinter/tkinter-reference-a-gui-for-python/anchors.html
 - https://tkinter-docs.readthedocs.io/en/latest/widgets/canvas.html
+- https://stackoverflow.com/questions/9408195/python-tkinter-text-background
