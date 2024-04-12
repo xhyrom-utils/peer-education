@@ -15,8 +15,8 @@ canvas.create_text(
 
 canvas.create_text(
     x,
-    y,
-    text="svet",
+    y + 60,
+    text="python",
     font=("Arial", 24),
     fill=random.choice(["red", "green", "blue"]),
     angle=90,
